@@ -1,7 +1,9 @@
-NIM		: 312210712
-NAMA		: LUTFI AMINUDIN SABIK
-KELAS              	: TI.22.C9
-DOSEN		: Agung Nugroho,S.Kom.,M.Kom. / Bahasa Pemograman
+#NIM		    : 312210712
+#NAMA		: LUTFI AMINUDIN SABIK
+#KELAS     	: TI.22.C9
+#DOSEN		: Agung Nugroho,S.Kom.,M.Kom. / Bahasa Pemograman
+
+##
 mahasiswa = []
 
 def tambah(nama, nilai):
